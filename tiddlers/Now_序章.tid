@@ -1,13 +1,12 @@
-created: 20240229105108042
+created: 20240302073706120
 creator: sicheng
-modified: 20240303152504521
+modified: 20240303153824616
 modifier: sicheng
 tags: 
-title: 成语典
+title: Now_序章
 type: text/vnd.tiddlywiki
-
 
 查找 <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
 
 
-<$macrocall $name=table-dynamic filter="[prefix[成语]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title"  caption="''条目''" />
+<$macrocall $name=table-dynamic filter="[prefix[序章] search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title created"  caption="''条目''" />
