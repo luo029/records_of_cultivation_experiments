@@ -1,6 +1,8 @@
 这里是修真实验记录，记录人员：陶嗣檙。
 
-我用的笔记方法[[赤蚁笔记]]参照了[Andyʼs working notes](https://notes.andymatuschak.org/)。
+[[我的笔记方法]]参照了[Andyʼs working notes](https://notes.andymatuschak.org/)。
+
+我的日记在[[修真日报]]
 
 
 
