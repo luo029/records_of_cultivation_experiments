@@ -1,4 +1,4 @@
-这里是修真实验记录，记录人员：陶嗣檙。
+这里是修真实验记录，记录人员：[[陶嗣檙]]。
 
 [[我的笔记方法]]参照了[Andyʼs working notes](https://notes.andymatuschak.org/)。
 

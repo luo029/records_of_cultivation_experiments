@@ -1,0 +1,12 @@
+created: 20240303103529910
+creator: sicheng
+modified: 20240303103555770
+modifier: sicheng
+tags: $:/tags/Stylesheet
+title: forDefaultTheme
+type: text/vnd.tiddlywiki
+
+/* 外部超链接增加箭头 */
+a.tc-tiddlylink-external::after {
+  content: "\2197";
+}
