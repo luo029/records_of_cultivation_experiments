@@ -2,7 +2,9 @@
 
 [[我的笔记方法]]参照了[Andyʼs working notes](https://notes.andymatuschak.org/)。
 
-我的日记在[[修真日报]]
+[[我的日记]]在[《修真日报》](https://sicheng.taoooist.org)
+
+
 
 
 
