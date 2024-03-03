@@ -1,0 +1,7 @@
+caption-zh: 标识侧边栏分段
+created: 20240228063632829
+creator: sicheng
+list: $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search $:/core/ui/SideBarSegments/tabs
+modified: 20240228063632829
+modifier: sicheng
+title: $:/tags/SideBarSegment

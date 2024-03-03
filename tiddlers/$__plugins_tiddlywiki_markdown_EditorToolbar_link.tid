@@ -1,0 +1,13 @@
+button-classes: tc-text-editor-toolbar-item-start-group
+caption: {{$:/language/Buttons/Link/Caption}}
+condition: [<targetTiddler>type[text/x-markdown]] [<targetTiddler>type[text/markdown]]
+created: 20240229021919871
+creator: sicheng
+description: {{$:/language/Buttons/Link/Hint}}
+dropdown: $:/plugins/tiddlywiki/markdown/EditorToolbar/link-dropdown
+icon: $:/core/images/link
+modified: 20240229021919871
+modifier: sicheng
+shortcuts: ((link))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/tiddlywiki/markdown/EditorToolbar/link

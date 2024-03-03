@@ -1,0 +1,18 @@
+caption: {{$:/language/Buttons/Heading1/Caption}} (Markdown)
+condition: [<targetTiddler>type[text/x-markdown]] [<targetTiddler>type[text/markdown]]
+created: 20240229021919870
+creator: sicheng
+description: {{$:/language/Buttons/Heading1/Hint}}
+icon: $:/core/images/heading-1
+modified: 20240229021919870
+modifier: sicheng
+shortcuts: ((heading-1))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/tiddlywiki/markdown/EditorToolbar/heading-1
+
+<$action-sendmessage
+	$message="tm-edit-text-operation"
+	$param="prefix-lines"
+	character="#"
+	count="1"
+/>

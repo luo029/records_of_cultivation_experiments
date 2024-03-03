@@ -1,7 +1,7 @@
-created: 20240225054424506
+created: 20240228120105625
 creator: sicheng
-modified: 20240227065721224
+modified: 20240228120105625
 modifier: sicheng
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-journal
 
-hide
+show
