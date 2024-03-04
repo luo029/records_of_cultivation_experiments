@@ -4,7 +4,7 @@
 
 [[我的日记]]在[《修真日报》](https://sicheng.taoooist.org)
 
-道教相关的在[《修真笔记》](https://note.taoooist.org)
+学术相关的在[《修真笔记》](https://note.taoooist.org)
 
 
 
