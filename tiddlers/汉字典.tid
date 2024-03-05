@@ -1,6 +1,6 @@
 created: 20240301052103150
 creator: sicheng
-modified: 20240303150437975
+modified: 20240305132758484
 modifier: sicheng
 tags: 
 title: 汉字典
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 查找 <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
 
 
-<$macrocall $name=table-dynamic filter="[prefix[汉字]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title"  caption="''条目''" />
+<$macrocall $name=table-dynamic filter="[prefix[汉字_]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title"  caption="''条目''" />

@@ -1,0 +1,10 @@
+created: 20240305132903110
+creator: sicheng
+modified: 20240305132907943
+modifier: sicheng
+title: 有趣的岛屿
+
+查找 <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
+
+
+<$macrocall $name=table-dynamic filter="[prefix[岛屿_]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title description-zh url"  caption="''条目''" />

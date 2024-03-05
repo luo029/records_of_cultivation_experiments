@@ -1,11 +1,11 @@
 created: 20240303150442195
 creator: sicheng
-modified: 20240303151128287
+modified: 20240305132815952
 modifier: sicheng
 title: 冲浪溅起的浪花
 
 查找 <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
 
 
-<$macrocall $name=table-dynamic filter="[prefix[浪花]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title caption-zh created "  caption="''条目''" />
+<$macrocall $name=table-dynamic filter="[prefix[浪花_]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title caption-zh created "  caption="''条目''" />
 

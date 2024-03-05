@@ -1,0 +1,12 @@
+created: 20240305132733960
+creator: sicheng
+modified: 20240305133726666
+modifier: sicheng
+title: 学习经韵记录
+
+查找 <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
+
+<$macrocall $name=table-dynamic filter="[prefix[经韵_]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title created"  caption="''条目''" />
+
+<$macrocall $name=table-dynamic filter="[prefix[声乐_]search{$:/temp/demo/dtable/search}]" class="w-100" fields="tbl-expand title created"  caption="''条目''" />
+
