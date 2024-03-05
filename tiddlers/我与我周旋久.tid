@@ -1,19 +1,21 @@
 created: 20240303153903349
 creator: sicheng
-modified: 20240303153934810
+modified: 20240305121847413
 modifier: sicheng
 title: 我与我周旋久
 type: text/vnd.tiddlywiki
 
-! 今朝:
+! [[Now_今朝]]:
 
 {{Now_今朝}}
 
 
-! 可期：
+! [[Now_可期]]：
+还有[[Now_待看影视清单]]和[[Now_待读书文清单]]
 
 {{Now_可期}}
 
-! 序章：
+! [[Now_序章]]：
 
 {{Now_序章}}
+
