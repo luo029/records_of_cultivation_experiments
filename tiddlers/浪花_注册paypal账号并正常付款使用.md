@@ -22,7 +22,7 @@
 
 接下来绑定银行卡。
 
-个人主页的[钱包](https://www.paypal.com/myaccount/money/)里可以绑定，选择“关联卡”即可。
+个人主页的[钱包](https://www.paypal.com/myaccount/money/)里可以绑定，选择`关联卡`即可。
 
 有一个大坑……即先不要选择`卡类型`为银联！
 
